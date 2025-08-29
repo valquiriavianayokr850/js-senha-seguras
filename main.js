@@ -23,3 +23,14 @@ function aumentaTamanho() {
 }
 
 console.log(botoes);
+const camposenha = document.querySelector('#campo-senha');
+
+const letrasMaiusculas = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+
+gerasenha()[ 
+    letnumeroaleatorio = mat.randon()*letrasMaiusculas.length
+    numeroAleatorio = mat.floor (numeroAleatorio);
+    console
+]
+
+camposenha.value = letrasMaiusculas;
